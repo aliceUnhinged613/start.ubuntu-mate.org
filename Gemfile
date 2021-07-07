@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", ">= 4.1.1"
 gem "bundler"
